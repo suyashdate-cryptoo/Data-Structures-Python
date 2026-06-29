@@ -24,6 +24,18 @@ A Python program that converts a decimal number to its binary representation usi
 
 ### Queue 
 - Queue Basics
+- ## Queue
+
+### 1. Queue Basics
+A Python program demonstrating queue operations such as enqueue, dequeue, and accessing the front element using a list.
+
+#### Concepts Covered
+- FIFO (First In, First Out)
+- Enqueue Operation
+- Dequeue Operation
+- Front Element
+- Queue Traversal
+  
 - Queue Using Class
 - Circular Queue
 - Priority Queue
