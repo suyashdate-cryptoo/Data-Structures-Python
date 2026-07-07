@@ -131,7 +131,25 @@ A Python implementation of common deletion operations in a Singly Linked List.
 - Linked List Traversal
 - Edge Case Handling
 
-- 
+- ### 4. Search Node
+
+A Python implementation of searching for a node in a Singly Linked List.
+
+#### Features
+
+- Insert at End
+- Search by Value
+- Return Node Position
+- Display Linked List
+
+#### Concepts Covered
+
+- Linear Traversal
+- Node Searching
+- Position Tracking
+- Search Algorithm
+
+  
 - Doubly Linked List
 - Circular Linked List
 
