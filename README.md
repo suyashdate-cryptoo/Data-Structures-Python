@@ -148,7 +148,24 @@ A Python implementation of searching for a node in a Singly Linked List.
 - Node Searching
 - Position Tracking
 - Search Algorithm
+  
+### 5. Reverse Linked List
 
+A Python implementation of reversing a Singly Linked List using the three-pointer technique.
+
+#### Features
+
+- Insert at End
+- Reverse Linked List
+- Display Linked List
+
+#### Concepts Covered
+
+- Pointer Manipulation
+- Three-Pointer Technique
+- In-Place Reversal
+- O(n) Time Complexity
+- O(1) Space Complexity
   
 - Doubly Linked List
 - Circular Linked List
