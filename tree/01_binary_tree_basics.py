@@ -77,3 +77,18 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""Expected Output
+Binary Tree (Preorder Traversal):
+10 20 40 50 30 60"""
+
+
+
+
+
+
+
+
+
+
+
