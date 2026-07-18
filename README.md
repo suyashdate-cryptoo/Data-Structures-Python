@@ -191,8 +191,24 @@ A Python implementation demonstrating the basic structure of a Binary Tree and p
 - Binary Tree
 - Recursive Traversal
 - Binary Search Tree (BST)
+  
 - Tree Traversals
+### 2. Tree Traversals
 
+A Python implementation of the three fundamental Depth-First Search (DFS) traversals for a Binary Tree.
+
+#### Features
+
+- Preorder Traversal
+- Inorder Traversal
+- Postorder Traversal
+
+#### Concepts Covered
+
+- Binary Tree
+- Depth-First Search (DFS)
+- Recursion
+- Tree Traversal Algorithms
 ### Graphs 
 - Graph Representation
 - Breadth-First Search (BFS)
