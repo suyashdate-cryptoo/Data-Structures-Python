@@ -209,6 +209,22 @@ A Python implementation of the three fundamental Depth-First Search (DFS) traver
 - Depth-First Search (DFS)
 - Recursion
 - Tree Traversal Algorithms
+  ### 3. Level Order Traversal (BFS)
+
+A Python implementation of Level Order Traversal (Breadth-First Search) for a Binary Tree using a queue.
+
+#### Features
+
+- Build Binary Tree
+- Level Order Traversal
+- Queue-Based Traversal
+
+#### Concepts Covered
+
+- Breadth-First Search (BFS)
+- Queue
+- Binary Tree
+- Tree Traversal
 ### Graphs 
 - Graph Representation
 - Breadth-First Search (BFS)
