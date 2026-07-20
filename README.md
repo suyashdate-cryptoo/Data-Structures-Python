@@ -225,6 +225,27 @@ A Python implementation of Level Order Traversal (Breadth-First Search) for a Bi
 - Queue
 - Binary Tree
 - Tree Traversal
+
+  ### 4. Binary Search Tree (BST)
+
+A Python implementation of a Binary Search Tree with insertion, searching, and inorder traversal.
+
+#### Features
+
+- Insert Nodes
+- Search Nodes
+- Inorder Traversal
+- Recursive Implementation
+
+#### Concepts Covered
+
+- Binary Search Tree (BST)
+- Recursion
+- Binary Search
+- Tree Traversal
+- Sorted Data
+
+  
 ### Graphs 
 - Graph Representation
 - Breadth-First Search (BFS)
