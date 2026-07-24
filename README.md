@@ -248,7 +248,27 @@ A Python implementation of a Binary Search Tree with insertion, searching, and i
   
 ### Graphs 
 - Graph Representation
+
+  
 - Breadth-First Search (BFS)
+### 3. Breadth-First Search (BFS)
+
+A Python implementation of Breadth-First Search (BFS) traversal for an undirected graph using a queue.
+
+#### Features
+
+- Add Vertices
+- Add Edges
+- BFS Traversal
+- Queue-Based Implementation
+
+#### Concepts Covered
+
+- Graph Traversal
+- Breadth-First Search (BFS)
+- Queue (FIFO)
+- Visited Set
+  
 - Depth-First Search (DFS)
 
 ### Hashing 
