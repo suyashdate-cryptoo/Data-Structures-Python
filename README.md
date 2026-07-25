@@ -271,6 +271,24 @@ A Python implementation of Breadth-First Search (BFS) traversal for an undirecte
   
 - Depth-First Search (DFS)
 
+### 5. Shortest Path Using BFS
+
+A Python implementation of finding the shortest path in an unweighted graph using Breadth-First Search (BFS).
+
+#### Features
+
+- Add Vertices
+- Add Edges
+- Find Shortest Path
+- Queue-Based BFS
+
+#### Concepts Covered
+
+- Breadth-First Search (BFS)
+- Shortest Path
+- Queue
+- Path Reconstruction
+- Unweighted Graph
 ### Hashing 
 - Hash Table Basics
 - Dictionary-Based Implementations
